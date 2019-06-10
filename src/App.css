@@ -2,7 +2,11 @@
   font-family: yekan;
   src: url(assets/fonts/YekanRegular.woff)
 }
-body,h1,h2,h3,h4,h5,h6,a,div,span,p,b{ font-family: yekan !important ; }
+
+body,h1,h2,h3,h4,h5,h6,a,div,span,p,b{
+   font-family: tahoma !important ;
+   font-size: 12px;
+   }
 
 .rtl{ 
   direction: rtl;

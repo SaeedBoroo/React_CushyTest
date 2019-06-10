@@ -1,6 +1,6 @@
-
-
-.cc {
-    font-size: 15px;
-    text-align: center;
+.circle-img{
+    border-radius : 50px;
+    width: 45px;
+    height: 45px;
+    border: 1px solid #e2e2e2;
   }

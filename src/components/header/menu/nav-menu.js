@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import {Button} from 'react-bootstrap';
+
 
 class NavMenu extends PureComponent {
   render() {
@@ -20,12 +20,9 @@ class NavMenu extends PureComponent {
   </style>
 
 
-      <ul class="nav nav-pills justify-content-center">
+      <ul class="nav nav-pills justify-content-right">
         <li class="nav-item">
           <a class="nav-link active" data-toggle="pill" href="#home">خانه</a>
-          <Button variant="flat" size="xxl">
-            flat button
-          </Button>
         </li>
         <li class="nav-item">
           <a class="nav-link" data-toggle="pill" href="#menu1">پیام ها</a>
